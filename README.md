@@ -12,8 +12,10 @@
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=henderson92&show_icons=true&theme=vision-friendly-dark">
 </p>
 
+<p align="center">
+  <img width="500" height="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henderson92&show_icons=true&theme=vision-friendly-dark">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henderson92&show_icons=true&theme=vision-friendly-dark)
 
 
 
