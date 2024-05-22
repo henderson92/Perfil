@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Perfil
-=======
+
 ### Ola, Sou o Paulo Henderson Miranda da Siva 💻😎
 
 
