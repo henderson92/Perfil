@@ -34,4 +34,3 @@
 
 ### 🎮 Jogos
 ![League of Legends](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)  ![Valorant](https://img.shields.io/badge/Valorant-100?style=for-the-badge&logo=valorant&logoColor=white)  ![CS:GO](https://img.shields.io/badge/Counter--Strike%203D%20-%20Global%20Offensive-%23000000?style=for-the-badge&logo=counter-strike-global-offensive&logoColor=white)  ![World of Warcraft](https://img.shields.io/badge/World%20of%20Warcraft-%23992727.svg?style=for-the-badge&logo=world-of-warcraft&logoColor=white)   ![Call of Duty](https://img.shields.io/badge/Call%20of%20Duty-%2345B8D8.svg?style=for-the-badge&logo=call-of-duty&logoColor=white)
->>>>>>> 560f8d9ee268bd6e674b84c1303ac8922ead16dc
