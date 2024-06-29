@@ -38,5 +38,3 @@
 ![google sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![Excell](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-### 🎮 Jogos
-![League of Legends](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)  ![Valorant](https://img.shields.io/badge/Valorant-100?style=for-the-badge&logo=valorant&logoColor=white)  ![CS:GO](https://img.shields.io/badge/Counter--Strike%203D%20-%20Global%20Offensive-%23000000?style=for-the-badge&logo=counter-strike-global-offensive&logoColor=white)  ![World of Warcraft](https://img.shields.io/badge/World%20of%20Warcraft-%23992727.svg?style=for-the-badge&logo=world-of-warcraft&logoColor=white)   ![Call of Duty](https://img.shields.io/badge/Call%20of%20Duty-%2345B8D8.svg?style=for-the-badge&logo=call-of-duty&logoColor=white)
